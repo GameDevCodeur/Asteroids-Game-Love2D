@@ -1,4 +1,4 @@
-# Astéroid Love2D
+# Astéroid Game Love2D
 
 Asteroids est un jeu vidéo de type shoot 'em up édité par Atari Inc. en 1979 sur borne d'arcade.
 Le jeu a connu un important succès aux États-Unis et au Japon, et demeure considéré comme un classique de l'histoire du jeu vidéo.
