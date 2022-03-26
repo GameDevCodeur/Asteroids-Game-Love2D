@@ -1,0 +1,1 @@
+copy /b love.exe + GDCAsteroid101.love GDCAsteroid101.exe
